@@ -1,0 +1,9 @@
+{
+  "vocab": 2048,
+  "width": 768,
+  "heads": 12,
+  "kv_heads": 4,
+  "ffn_hidden": 896,
+  "depth": 4,
+  "context": 256
+}
